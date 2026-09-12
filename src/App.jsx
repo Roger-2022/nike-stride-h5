@@ -403,7 +403,7 @@ function Point({ sid, w }) {
 
       <div className="mt-5 border border-ink bg-white p-4">
         <div className="flex items-start gap-4">
-          <div className="w-[120px] shrink-0 border border-ink" dangerouslySetInnerHTML={{ __html: svg }} />
+          <div className="qr w-[120px] shrink-0 border border-ink bg-white" dangerouslySetInnerHTML={{ __html: svg }} />
           <div className="min-w-0">
             <Kicker>Trace plate QR</Kicker>
             <div className="mt-1 text-[15px] font-black text-ink">{p.name} 溯源牌二维码</div>
