@@ -209,7 +209,7 @@ function Home() {
       </section>
 
       <section className="mt-9 px-4">
-        <SectionHead kicker="Keep it going" title="行远者计划：四条路径" />
+        <SectionHead kicker="Keep it going" title="行远者计划：五条路径" />
         <ul className="divide-y divide-line border-y border-ink">
           {MECHANISMS.map((m) => (
             <li key={m.no} className="grid grid-cols-[28px_1fr] gap-3 py-3">
