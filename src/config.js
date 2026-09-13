@@ -15,6 +15,6 @@ export const CONTACT = {
 };
 
 // 工具包电子书链接（claude.ai 作品页，需项目组开放分享后才能打开）。
-export const EBOOK_URL = "https://claude.ai/code/artifact/f6a28cb2-38fa-4e22-b255-827a49edb800";
+export const EBOOK_URL = "https://roger-2022.github.io/nike-stride-h5/ebook.html";
 
 export const VERSION = "V2.0 2026-09";

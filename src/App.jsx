@@ -648,7 +648,7 @@ function Kit() {
         <Btn tone="ink" href={EBOOK_URL}>打开电子书</Btn>
         <Btn tone="line" onClick={() => go("report")}>学校填报</Btn>
       </div>
-      <p className="mt-2 text-[11px] text-mute">电子书为项目组内部链接，需项目组开放分享后可打开；印刷版随工具箱交付。</p>
+      <p className="mt-2 text-[11px] text-mute">电子书是单个网页文件，手机电脑都能打开；印刷版随工具箱交付。</p>
     </div>
   );
 }
